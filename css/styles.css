@@ -64,6 +64,7 @@ a {
     font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
+    letter-spacing: 0.02em;
     text-align: center;
 }
 
@@ -114,7 +115,7 @@ a {
     background-color: var(--lightColor);
 }
 
-.team-section .list {
+.team-section .list-item {
     background-color: var(--whiteBackgroundColor);
 }
 
